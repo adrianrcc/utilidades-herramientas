@@ -1,7 +1,7 @@
 # Utilidades/herramientas
 
 ## Buscadores
-- https://scholar.google.es/schhp?hl=es
+- https://scholar.google.es
 - https://tineye.com/
 
 ## Correo temporal
