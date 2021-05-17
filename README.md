@@ -34,5 +34,5 @@
 - **Conversor de formatos todoterreno** https://cloudconvert.com/
 - **Presupuestos para torres optimizados** https://www.logicalincrements.com/
 - **Eliminar fondos de las fotos** https://www.remove.bg/
-- **Descriptor de comandos bash mediante man* https://explainshell.com/
-- **Eliminación metódica de malware (no ransomware) https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/
+- **Descriptor de comandos bash mediante man** https://explainshell.com/
+- **Eliminación metódica de malware (no ransomware)** https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/
